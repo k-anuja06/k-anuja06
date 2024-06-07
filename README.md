@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuja</h1>
 <h3 align="center">A passionate Tech Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **DataScience, Python, Java**
+- 🌱 I’m currently learning **WEB DEV, Java**
 
 - 📫 How to reach me **https://www.linkedin.com/in/k-anuja06/**
 
